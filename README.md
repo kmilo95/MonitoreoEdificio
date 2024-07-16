@@ -18,8 +18,7 @@ El proyecto de monitoreo de edificios tiene como objetivo proporcionar un sistem
 
 ## Características
 
-- Monitoreo en tiempo real de datos sísmicos.
-- Alerta temprana en caso de detección de sismos.
+- Analisis de los sensores
 - Almacenamiento y procesamiento de datos en AWS.
 - Análisis histórico y en tiempo real de datos sísmicos.
 
