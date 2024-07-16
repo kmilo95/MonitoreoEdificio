@@ -11,7 +11,6 @@ Este proyecto implementa un sistema de monitoreo de edificios utilizando sensore
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
 - [Autores](#autores)
-- [Agradecimientos](#agradecimientos)
 
 ## Introducción
 
@@ -101,10 +100,6 @@ Este proyecto está licenciado bajo la Licencia MIT - mira el archivo [LICENSE](
 
 ## Autores
 
-- **Tu Nombre** - *Trabajo Inicial* - [GitHub](https://github.com/tu_usuario)
-- **Colaborador 1** - *Contribuciones adicionales* - [GitHub](https://github.com/colaborador1)
-- **Colaborador 2** - *Contribuciones adicionales* - [GitHub](https://github.com/colaborador2)
-
-## Agradecimientos
-
-- A cualquier persona o recurso que quieras mencionar por su ayuda en el desarrollo del proyecto.
+- **Andres Felipe Rivero** - *Trabajo Inicial* - [GitHub]([https://github.com/afriveros)
+- **Andres Quiroga Ruiz** - *Contribuciones adicionales* - [GitHub](https://github.com/AndresR10Q)
+- **Camilo Cardenas** - *Contribuciones adicionales* - [GitHub](https://github.com/kmilo95)
